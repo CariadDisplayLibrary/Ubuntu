@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Ubuntu.h
-Description: Ubuntu font for DisplayCore
+Description: Ubuntu
