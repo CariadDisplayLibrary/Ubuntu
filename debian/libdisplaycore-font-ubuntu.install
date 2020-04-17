@@ -1,2 +1,4 @@
-Ubuntu.cpp libraries/DisplayCore/Ubuntu
-Ubuntu.h libraries/DisplayCore/Ubuntu
+library.json libraries/DisplayCore/Ubuntu
+library.properties libraries/DisplayCore/Ubuntu
+README.md libraries/DisplayCore/Ubuntu
+src libraries/DisplayCore/Ubuntu
