@@ -1,7 +1,7 @@
 #ifndef _UBUNTU_H
 #define _UBUNTU_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
         extern const uint8_t Ubuntu10[];

@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-ubuntu
+Source: libcariad-font-ubuntu
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-ubuntu
+Package: libcariad-font-ubuntu
+Replaces: libdisplaycore-font-ubuntu
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: Ubuntu.h
 Description: Ubuntu
